@@ -4,6 +4,12 @@ Este proyecto es una aplicación web para explorar y consultar los datasets disp
 
 ![Imagen de la Aplicación](https://datos.gob.es/sites/default/files/logo_0.svg)
 
+## Demo en Vivo
+
+Puedes ver una versión en vivo de la aplicación en el siguiente enlace:
+
+[Ver Demo](https://datosabiertos.streamlit.app/)
+
 ## Características
 
 - **Lista de Datasets**: La aplicación muestra una lista de datasets disponibles en el portal.
