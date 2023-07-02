@@ -32,7 +32,7 @@ Esta aplicación es útil para personas interesadas en explorar y trabajar con d
 
 1. Clonar este repositorio o descargarlo como ZIP.
 2. Instalar las dependencias necesarias con `pip install -r requirements.txt`.
-3. Ejecutar la aplicación con el comando `streamlit run nombre_de_tu_archivo.py`.
+3. Ejecutar la aplicación con el comando `streamlit run app.py`.
 4. Navega a la URL que Streamlit te proporciona (por lo general, http://localhost:8501) y explora la aplicación.
 
 ## Contribuciones
