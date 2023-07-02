@@ -1,8 +1,8 @@
+![Imagen de la Aplicación](https://datos.gob.es/sites/default/files/logo_0.svg)
+
 # Navegador de Datasets de Datos Abiertos del Gobierno de España
 
 Este proyecto es una aplicación web para explorar y consultar los datasets disponibles en el portal de datos abiertos del Gobierno de España.
-
-![Imagen de la Aplicación](https://datos.gob.es/sites/default/files/logo_0.svg)
 
 ## Demo en Vivo
 
